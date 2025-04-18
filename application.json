@@ -5,11 +5,11 @@
   },
   "applicationDetail": {
     "navigationSetting": {
-      "colorStyle": "light",
+      "colorStyle": "theme",
       "logoAssetId": "",
       "logoConfiguration": "logoAndApplicationTitle",
-      "navStyle": "stacked",
-      "orientation": "top",
+      "navStyle": "sidebar",
+      "orientation": "side",
       "position": "static",
       "showNavbar": true,
       "showSignIn": true
@@ -24,7 +24,7 @@
   "collapseInvisibleWidgets": true,
   "color": "#D6D1F2",
   "evaluationVersion": 2,
-  "icon": "website",
+  "icon": "flight",
   "pages": [
     {
       "id": "Login",
@@ -40,11 +40,11 @@
   },
   "unpublishedApplicationDetail": {
     "navigationSetting": {
-      "colorStyle": "light",
+      "colorStyle": "theme",
       "logoAssetId": "",
       "logoConfiguration": "logoAndApplicationTitle",
-      "navStyle": "stacked",
-      "orientation": "top",
+      "navStyle": "sidebar",
+      "orientation": "side",
       "position": "static",
       "showNavbar": true,
       "showSignIn": true
